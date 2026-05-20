@@ -1,16 +1,12 @@
 Activity # 7: adoVM CTM Terminal Simulator (Linux Networking Commands)
 
 Repository: GitHub
-https://github.com/xen0byt3/xen0byt3-CTM-Activity-10
-
+https://github.com/MasterMind8307/CTM_Activity_7
 
 
 Overview
 
-
-
 The adoVM CTM Terminal Simulator is a Python-based terminal simulation designed to replicate basic Linux networking commands in a controlled environment.
-
 
 
 This project is created for CTM Simulation students to practice:
@@ -24,11 +20,7 @@ This project is created for CTM Simulation students to practice:
 &#x09;Cybersecurity concepts (SOC basics)
 
 
-
 Objectives
-
-
-
 &#x09;Simulate real-world Linux networking tools
 
 &#x09;Interpret command outputs
@@ -40,8 +32,6 @@ Objectives
 
 
 Features
-
-
 
 &#x09;Simulated Linux terminal interface
 
@@ -63,7 +53,7 @@ How to Download \& Run (from GitHub)
 
 Repository:
 
-https://github.com/xen0byt3/xen0byt3-CTM-Activity-10
+https://github.com/MasterMind8307/CTM_Activity_7
 
 
 
@@ -93,7 +83,7 @@ Option 2: Clone using Git (Optional)
 
 2\. Run:
 
-&#x09;git clone https://github.com/xen0byt3/xen0byt3-CTM-Activity-10.git
+https://github.com/MasterMind8307/CTM_Activity_7
 
 3\. Open the downloaded folder
 
